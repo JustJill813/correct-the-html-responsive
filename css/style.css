@@ -169,6 +169,7 @@ hr {
 		justify-content: space-between;
 		gap: 1.6rem;;
 	}
+
 	.header_pub-info {
 		display: flex;
 		flex-direction: row;
@@ -184,7 +185,7 @@ hr {
 	}
 
 	.main-sidebar {
-		flex: 0 0 40%;;
+		flex: 0 0 40%;
 		border-radius: 0.6rem;
 		margin: 0;
 	}
